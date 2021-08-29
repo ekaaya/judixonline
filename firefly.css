@@ -1277,10 +1277,10 @@
 @keyframes flash{
 	0%,100%,30%{
 		opacity:0;
-		box-shadow:0 0 0 0 #ff0000
+		box-shadow:0 0 0 0 #fffea6
 }
 	5%{
 		opacity:1;
-		box-shadow:0 0 2vw .4vw #ff0000
+		box-shadow:0 0 2vw .4vw #fffea6
 }
 }
